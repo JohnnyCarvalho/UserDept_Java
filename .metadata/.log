@@ -194,3 +194,6 @@ Contains: Missing antlr:antlr:jar:javadoc:2.7.7
 !MESSAGE Could not resolve artifact antlr:antlr:jar:javadoc:2.7.7
 !SUBENTRY 2 org.eclipse.m2e.core 4 -1 2022-07-12 23:30:13.476
 !MESSAGE Missing antlr:antlr:jar:javadoc:2.7.7
+
+!ENTRY org.eclipse.ui 2 2 2022-07-13 21:19:25.569
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
